@@ -1,0 +1,25 @@
+{
+  "name": "dynamic_fileserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swethas2005/Dynamic_FileServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swethas2005/Dynamic_FileServer/issues"
+  },
+  "homepage": "https://github.com/Swethas2005/Dynamic_FileServer#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "path": "^0.12.7"
+  }
+}
